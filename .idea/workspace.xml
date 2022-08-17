@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="785dc3bf-7d83-46ad-9ea0-64c876d040b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week3/ChainBattled/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/create-nft-gallery/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/create-nft-gallery/components/nftCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/week3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2DOwo0kbDD4TaKkjjTsRICjhdAW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -43,17 +53,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week3/ChainBattled" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week4/create-nft-gallery" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/week4/create-nft-gallery/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/week3/ChainBattled" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week4/create-nft-gallery" />
+      <recent name="$PROJECT_DIR$/week3/ChainBattled" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -68,7 +80,9 @@
       <updated>1660583609338</updated>
       <workItem from="1660583610708" duration="509000" />
       <workItem from="1660612133415" duration="3915000" />
-      <workItem from="1660654786069" duration="1801000" />
+      <workItem from="1660654786069" duration="3591000" />
+      <workItem from="1660698926449" duration="1503000" />
+      <workItem from="1660703498074" duration="2633000" />
     </task>
     <servers />
   </component>
